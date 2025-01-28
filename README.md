@@ -17,3 +17,5 @@
 
 ### 📫 Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sttefany-alexia-939356155/)
+[![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sttefanyalexia@hotmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sttefany.alexia/)
