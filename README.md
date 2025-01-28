@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Sttefany! 👋
 
-<!--
-**SttefanyAlexiaM/SttefanyAlexiaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Quality Assurance | Testes de Software**  
+📚 Explorando Git e Postman  
+📍 Atualmente estudando automação de testes 
 
-Here are some ideas to get you started:
+### 🔎 Sobre mim
+- 🎯 Apaixonada por garantir qualidade em software  
+- 🛠 Sempre em busca de aprender novas ferramentas e boas práticas  
+- 📖 Interessada em acessibilidade e usabilidade em testes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e ferramentas que estou aprendendo
+- 🖥 **Postman**  
+- 📝 **Git & GitHub**  
+- ⚙ **JavaScript para testes**  
+- 🤖 **Testes automatizados**  
+
+### 📫 Como me encontrar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sttefany-alexia-939356155/)
