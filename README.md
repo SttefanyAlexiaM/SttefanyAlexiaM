@@ -1,8 +1,7 @@
 # Olá, eu sou a Sttefany! 👋
 
 💻 **Quality Assurance | Testes de Software**  
-📚 Explorando Git e Postman  
-📍 Atualmente estudando automação de testes 
+📚 Atualmente estudando automação de testes 
 
 ### 🔎 Sobre mim
 - 🎯 Apaixonada por garantir qualidade em software  
