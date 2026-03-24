@@ -11,7 +11,6 @@
 ### 🚀 Tecnologias e ferramentas que estou aprendendo
 
 - 🤖 **Testes automatizados**
--  🖥 **N8N**  
 
 ### 📫 Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sttefany-alexia-939356155/)
